@@ -8,5 +8,4 @@ public class Hello {
 		System.out.println(lyrics) ;
 		// TODO Auto-generated method stub
 	}
-
 }
